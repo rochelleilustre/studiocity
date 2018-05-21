@@ -1,0 +1,15 @@
+$main-font: Verdana;
+$heading-font: Arial;
+$font-size: 22px;
+$font-color: #333;
+
+/* COLOR SCHEME */
+$main-color: #1c1b3a;
+$secondary-color: #000;
+$main-color-tinted: mix(white, $main-color, 10%);
+$secondary-color-tinted: mix(white, $secondary-color, 10%);
+
+/* DIMENSIONS */
+$template-width: 60%;
+$showcase-height: 600px;
+$icon-size:40px;
